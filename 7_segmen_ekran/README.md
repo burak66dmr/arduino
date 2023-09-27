@@ -1,1 +1,1 @@
-![Alternatif Metin](https://www.youtube.com/watch?v=eoTpdTU8nTA)
+![Alternatif Metin](https://github.com/burak66dmr/arduino/blob/main/7_segmen_ekran/a00.png)
