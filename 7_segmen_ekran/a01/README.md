@@ -1,1 +1,1 @@
-![Alternatif Metin](Görselin_URL'si)
+![Alternatif Metin](https://github.com/burak66dmr/arduino/blob/main/7_segmen_ekran/a01/a01.png)
